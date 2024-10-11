@@ -1,3 +1,13 @@
+# Pangolin for ORB_SLAM3
+
+This repo's main branch is branch v0.6 of https://github.com/stevenlovegrove/Pangolin.git
+
+Works with ORB_SLAM3 from https://github.com/UZ-SLAMLab/ORB_SLAM3.git commit 4452a3c4ab75b1cde34e5505a36ec3f9edcdc4c4
+
+Or with my own for of ORB_SLAM3 https://github.com/RenatoBrittoAraujo/ORB_SLAM3 commit 447df9f1cecc5a559e54d2f0dc626c54a0715210
+
+# Original Pangolin README
+
 What is Pangolin
 ====================================
 
