@@ -6,6 +6,16 @@ Works with ORB_SLAM3 from https://github.com/UZ-SLAMLab/ORB_SLAM3.git commit 445
 
 Or with my own for of ORB_SLAM3 https://github.com/RenatoBrittoAraujo/ORB_SLAM3 commit 447df9f1cecc5a559e54d2f0dc626c54a0715210
 
+Build:
+```
+git clone https://github.com/stevenlovegrove/Pangolin.git
+cd Pangolin
+mkdir build
+cd build
+cmake ..
+cmake --build .
+```
+
 # Original Pangolin README
 
 What is Pangolin
