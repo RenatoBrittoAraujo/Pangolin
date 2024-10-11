@@ -8,7 +8,6 @@ Or with my own for of ORB_SLAM3 https://github.com/RenatoBrittoAraujo/ORB_SLAM3 
 
 Build:
 ```
-git clone https://github.com/stevenlovegrove/Pangolin.git
 cd Pangolin
 mkdir build
 cd build
